@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "338952799625",
+    "firebase_url": "https://my-burger-a7a30.firebaseio.com",
+    "project_id": "my-burger-a7a30",
+    "storage_bucket": "my-burger-a7a30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338952799625:android:72dd2837c9a4c2db960d58",
+        "android_client_info": {
+          "package_name": "com.example.myburger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338952799625-ps1nitj007viln4mp7p7r6305uue4f82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBA_iolEHJmJi-j6F9_WWuAy_6utnCPrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338952799625-ps1nitj007viln4mp7p7r6305uue4f82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
